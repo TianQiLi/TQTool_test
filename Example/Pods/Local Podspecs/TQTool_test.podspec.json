@@ -1,0 +1,22 @@
+{
+  "name": "TQTool_test",
+  "version": "0.1.0",
+  "summary": "A short description of TQTool_test.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/871651575@qq.com/TQTool_test",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "871651575@qq.com": "litianqi@yy.com"
+  },
+  "source": {
+    "git": "https://github.com/871651575@qq.com/TQTool_test.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TQTool_test/Classes/**/*"
+}
